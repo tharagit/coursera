@@ -18,27 +18,24 @@ body {
 }
 
 .section {
-  padding: 4px;
-  /*margin-left: -4px;*/
-    border: 2px solid black;
-    background-color: lightgray;
+  /*padding: 2px;*/
+  padding-left: 1px;  
+  border: 2px solid black;
+  background-color: lightgray;
 }
 
  p {  
-  background-color: lightgray;
-  /*width: 90%;
-  margin-right: auto;
-  margin-left: auto;*/
+  background-color: lightgrey;
   font-family: Helvetica;
   color: black;
   font-size : small;
-  /*border: 3px solid black;*/
 }
 .sec-1, .sec-2, .sec-3 {
   float: right!important;
   border: 1px solid black;
   text-align: center;
   font-size: large;
+  font-weight: bold;
 }
 .sec-1 {
   background-color: pink;
