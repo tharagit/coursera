@@ -51,7 +51,7 @@ body {
 }
 
 #Sushi, #Chicken, #Beef {
-    background-color: darkgray;
+    
             
 }
 
@@ -67,7 +67,12 @@ h2 {
 }
 
 .section {
-    margin : 5px;
-    padding : 5px;
+    margin : 1px;
+    padding : 1px;
+    background-color: darkgray;
+}
+
+#collapsable-nav {
+    background-color: aliceblue;
 }
 
