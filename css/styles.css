@@ -1,10 +1,7 @@
 body { 
   font-family: sans-serif;
-    position : relative;
 }
-* {
-    box-sizing: border-box;
-}
+
 /** HEADER **/
 #header-nav {
   background-color: darkgray;
@@ -55,9 +52,7 @@ body {
 
 #Sushi, #Chicken, #Beef {
     background-color: darkgray;
-    float:left;
-    padding : -10px;
-    margin-left: -5px;
+            
 }
 
 h3 {
@@ -69,5 +64,10 @@ h2 {
    text-align:  center;
    font-weight: bold; 
 
+}
+
+.section {
+    margin : 5px;
+    padding : 5px;
 }
 
