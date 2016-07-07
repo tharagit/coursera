@@ -14,7 +14,7 @@ Hello Yaakov
 Good Bye John
 Good Bye Jen
 Good Bye Jason
-Hello Paul
+Hello Paul0
 Hello Frank
 Hello Larry
 Hello Paula
@@ -64,5 +64,6 @@ for (var i = 0; i < names.length; i++) {
     helloSpeaker.speak(names[i]);
   }
 }
-
 })();
+
+
